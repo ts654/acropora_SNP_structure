@@ -3,7 +3,7 @@ Timothy K. Soh, David Edwards, Jens B. Bosse, Kate M. Quigley
 
 ## Dependencies:
 	python		3.9
-	bio		1.6.2
+	bio			1.6.2
 	matplotlib	3.5.3
 	numpy		1.21.6
 	pandas		1.3.5
