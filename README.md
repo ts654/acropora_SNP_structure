@@ -1,0 +1,1 @@
+# acropora_SNP_structure
