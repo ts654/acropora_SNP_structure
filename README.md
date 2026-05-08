@@ -46,6 +46,17 @@ The scripts map heat-tolerance-associated SNPs from ANGSD GWAS output onto annot
   pathway_analysis_merged_heatmap.py
 ```
 
+## Demo Run
+Demo data is provided for the `map_SNP_to_proteins_amil.py` script. Running the Python script on the provided demo data takes less than 1 minute to complete on a standard computer.
+
+> **Note:** Before running, the user must adjust the file paths defined at the top of the script.
+
+Upon completion, the script will generate two `.tsv` output files in the working directory:
+- `{file}_SNP_intergenic.tsv`
+- `{file}_SNP_in_proteins.tsv`
+
+All scripts include an explanation at the top, and the user must define the file paths accordingly.
+
 ## Dependencies:
 	python		3.9
 	bio			1.6.2
